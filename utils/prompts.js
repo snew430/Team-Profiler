@@ -20,7 +20,7 @@ const promptPeople = (teamData) => {
       },
       {
         type: "input",
-        name: "ID",
+        name: "id",
         message: "What is your team member's ID?",
       },
       {
