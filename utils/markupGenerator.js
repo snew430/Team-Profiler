@@ -45,7 +45,7 @@ function markupGenerator(people) {
           <li class="list-group-item text-center">Email: <a href="mailto:${person.getEmail()}">${person.getEmail()}</a></li>
           <li class="list-group-item text-center">GitHub: <a href="https://github.com/${
             person.github
-          } target="_blank">${person.github}</a></li>
+          }" target="_blank">${person.github}</a></li>
         </ul>
       </div>`;
       })}

@@ -15,6 +15,8 @@
 ## Usage
 
 - See images and video below
+https://github.com/snew430/Team-Profiler
+https://drive.google.com/file/d/1c8mHJlZF0dbxdz5NCk83P908NWfjxQOV/view
 
 ## Contribution
 
