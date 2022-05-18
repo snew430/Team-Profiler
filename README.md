@@ -10,7 +10,7 @@
 
 ## Installation
 
-- npm i inquirer
+- npm i
 
 ## Usage
 
